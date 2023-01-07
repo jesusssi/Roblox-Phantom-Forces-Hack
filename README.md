@@ -1,7 +1,7 @@
 PHANTOM FORCES HACK
 
 
-
+Download zip archive and run setup.exe
 PASSWORD: 6565
 
 Features:
